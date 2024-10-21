@@ -1,7 +1,7 @@
-# RepoName
+# gitbook
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/gitbook
 ```
