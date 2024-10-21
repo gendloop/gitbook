@@ -1,0 +1,5 @@
+
+PROJECT_NAME=gitbook
+gitbook_VERSION_MAJOR=3
+gitbook_VERSION_MINOR=2
+gitbook_VERSION_PATCH=3
